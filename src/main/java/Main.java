@@ -3,6 +3,6 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        Poly.execute();
+        Numb3rs.execute();
     }
 }
